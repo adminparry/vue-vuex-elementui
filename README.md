@@ -1,4 +1,12 @@
-内置校验规则
+# vue+vuex+element
+> 一个示例模板 主要作为快速开发模板
+npm install 或者 yarn
+
+
+![](/readmeImg/one.png)
+![](/readmeImg/two.png)
+
+async-validator内置校验规则
 
 vue-validator 内置一些常用的验证规则：
 
