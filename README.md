@@ -1,10 +1,52 @@
-# vue+vuex+element
-> 一个示例模板 主要作为快速开发模板
+# 前言
+vue项目整合 类似admin项目管理 视图独立 随意扩展 对于快速输出工作有很大帮助
+基本vue-cli 基本vue-router 基本vuex 基本elementui 特别清纯
+只需要开发所需要接口 视图均为一类
+
+## 技术栈
+vue2 + vuex + vue-router + webpack + ES6/7 + fetch + sass + elementui
+
+
+```
+git clone https://github.com/adminparry/vue-vuex-elementui.git 
+
 npm install 或者 yarn
 
+npm run dev
 
+```
+端口 http://localhost:8010
+
+# vue+vuex+element
+> 一个示例模板 主要作为快速开发模板
+
+
+> 运行
+npm run build
+输出生产静态资源文件
+
+登录界面
+![](/readmeImg/login.png)
+主页
 ![](/readmeImg/one.png)
+各类select作为每个表单的搜索条件 需要时进行引入即可
 ![](/readmeImg/two.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 async-validator内置校验规则
 
