@@ -1,0 +1,27 @@
+/*所有栏目页title样式*/
+.h-title{
+    border: 1px solid #ccc;
+}
+/*search style*/
+.h-retrieval{
+    border: 1px solid #ccc;margin: 10px 0 ;
+}
+/*container容器*/
+.container{
+    padding: 20px 20px 0 20px;
+}
+.center{
+  position:relative; width:100%;min-height: 100%;padding-bottom: 50px;
+}
+.footer{
+    position:absolute;bottom:0;
+    width:100%;height:50px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+/*table pager center*/
+.alignItem{
+padding: 20px;
+text-align: center;
+}
