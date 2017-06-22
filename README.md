@@ -28,7 +28,8 @@ npm run build
 ![](/readmeImg/one.png)
 #各类select作为每个表单的搜索条件 需要时进行引入即可
 ![](/readmeImg/two.png)
-
+#echarts
+![](/readmeImg/charts.png)
 
 
 
